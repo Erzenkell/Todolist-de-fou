@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+  }
+
+.completed {
+    background-color: green;
+ }
+
+ .todo {
+     cursor: pointer;
+     border: solid;
+     margin-bottom: 2px;
+ }
